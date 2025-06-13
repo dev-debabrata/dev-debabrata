@@ -1,6 +1,6 @@
-## Hi there, I'm Debabrata 👋
-
 ![](cover-img.gif)
+
+## Hi there, I'm Debabrata 👋
 
 <!--
 **dev-debabrata/dev-debabrata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
