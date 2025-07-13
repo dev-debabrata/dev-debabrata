@@ -1,5 +1,3 @@
-![](cover-img.gif)
-
 ## Hi, I'm Debabrata Das 👋
 
 <!--
