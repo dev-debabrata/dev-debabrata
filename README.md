@@ -20,3 +20,7 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: debabratadas711@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Praizee" align="center" />
+</div>
