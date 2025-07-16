@@ -18,5 +18,5 @@
 - ⚡ Fun fact: ...
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Praizee" align="center" />
+<img src="https://komarev.com/ghpvc/?username=dev-debabrata" align="center" />
 </div>
