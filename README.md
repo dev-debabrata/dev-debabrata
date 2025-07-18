@@ -17,6 +17,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<div>
+<!-- <div>
 <img src="https://komarev.com/ghpvc/?username=dev-debabrata" />
-</div>
+</div> -->
