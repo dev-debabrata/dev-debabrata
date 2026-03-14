@@ -8,15 +8,9 @@
 
 # 💁🏽‍♂️ About me
 
-<<<<<<< HEAD
-
-- 🔭 I’m currently working on JavaScript, React
-- 🌱 I’m currently learning Node.js, Angular
-- # 👯 I’m looking to collaborate on ...
 - 🔭 I’m currently working on ... JavaScript, TypeScript, Angular
 - 🌱 I’m currently learning ... Angular and TypeScript
 - 👯 I’m looking to collaborate on ... Angular
-  > > > > > > > 46cdab7 (update readme)
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: debabratadas711@gmail.com
