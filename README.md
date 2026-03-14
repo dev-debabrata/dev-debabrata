@@ -15,7 +15,7 @@
 - 💬 Ask me about **JavaScript, TypeScript, Angular basics, frontend projects, and GitHub**
 - 📫 How to reach me: debabratadas711@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy turning ideas into interactive web applications and continuously learning new technologies
+- ⚡ Fun fact: Coffee and coding make a productive combination for me
 
 <!-- <div>
 <img src="https://komarev.com/ghpvc/?username=dev-debabrata" />
