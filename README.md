@@ -8,14 +8,14 @@
 
 # 💁🏽‍♂️ About me
 
-- 🔭 I’m currently working on ... JavaScript, TypeScript, Angular
-- 🌱 I’m currently learning ... Angular and TypeScript
+- 🔭 I’m currently working on **JavaScript, TypeScript, Angular**
+- 🌱 I’m currently learning **Angular and TypeScript**
 - 👯 I’m looking to collaborate on ... Angular
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🤔 I’m looking for help with **advanced Angular architecture, performance optimization, and real-world project structure**
+- 💬 Ask me about **JavaScript, TypeScript, Angular basics, frontend projects, and GitHub**
 - 📫 How to reach me: debabratadas711@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns:He/Him
+- ⚡ Fun fact: I enjoy turning ideas into interactive web applications and continuously learning new technologies
 
 <!-- <div>
 <img src="https://komarev.com/ghpvc/?username=dev-debabrata" />
